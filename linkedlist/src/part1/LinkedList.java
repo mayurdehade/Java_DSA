@@ -1,7 +1,7 @@
 //Structure of linked list 
 //Blueprint
 //addFirst and addLast to linked list
-package basic;
+package part1;
 
 public class LinkedList {
 	
